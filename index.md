@@ -1,4 +1,8 @@
-# Privacy Policy for Age of Arcane
+---
+layout: page
+title: Privacy Policy (EN)
+---
+# Age of Arcane - Privacy Policy
 
 **Effective Date:** October 4, 2023
 
