@@ -4,6 +4,8 @@ title: Privacy Policy (EN)
 ---
 # Age of Arcane - Privacy Policy
 
+**[EN](index.md)** | [RU](index_ru.md)
+
 **Effective Date:** October 4, 2023
 
 ## Introduction
